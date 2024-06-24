@@ -1,0 +1,16 @@
+com.example.week6.app-jetified-window-java-1.0.0-beta04-0 C:\Users\MiMint CH\.gradle\caches\transforms-3\0f37726644e3837b7f8e7b5d84f2fc86\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.week6.app-jetified-play-services-basement-18.1.0-1 C:\Users\MiMint CH\.gradle\caches\transforms-3\621bb54615c828fea04800edcaf3dc06\transformed\jetified-play-services-basement-18.1.0\res
+com.example.week6.app-lifecycle-runtime-2.3.1-2 C:\Users\MiMint CH\.gradle\caches\transforms-3\93539b6030bdc4886a39228703cc8b20\transformed\lifecycle-runtime-2.3.1\res
+com.example.week6.app-jetified-window-1.0.0-beta04-3 C:\Users\MiMint CH\.gradle\caches\transforms-3\9c832426115958bd63e62da1fdf3b98c\transformed\jetified-window-1.0.0-beta04\res
+com.example.week6.app-core-1.9.0-4 C:\Users\MiMint CH\.gradle\caches\transforms-3\a214cef3e8a35af4111c89709106572c\transformed\core-1.9.0\res
+com.example.week6.app-jetified-annotation-experimental-1.3.0-5 C:\Users\MiMint CH\.gradle\caches\transforms-3\b79e5c03f9c60e45c6fb52361185a0d5\transformed\jetified-annotation-experimental-1.3.0\res
+com.example.week6.app-jetified-play-services-base-18.1.0-6 C:\Users\MiMint CH\.gradle\caches\transforms-3\ea0323826099520ed2b85b83ef37af04\transformed\jetified-play-services-base-18.1.0\res
+com.example.week6.app-debug-7 C:\Users\MiMint CH\Desktop\flutter_application_1\week6\android\app\src\debug\res
+com.example.week6.app-main-8 C:\Users\MiMint CH\Desktop\flutter_application_1\week6\android\app\src\main\res
+com.example.week6.app-pngs-9 C:\Users\MiMint CH\Desktop\flutter_application_1\week6\build\app\generated\res\pngs\debug
+com.example.week6.app-resValues-10 C:\Users\MiMint CH\Desktop\flutter_application_1\week6\build\app\generated\res\resValues\debug
+com.example.week6.app-rs-11 C:\Users\MiMint CH\Desktop\flutter_application_1\week6\build\app\generated\res\rs\debug
+com.example.week6.app-mergeDebugResources-12 C:\Users\MiMint CH\Desktop\flutter_application_1\week6\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.week6.app-mergeDebugResources-13 C:\Users\MiMint CH\Desktop\flutter_application_1\week6\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.week6.app-merged_res-14 C:\Users\MiMint CH\Desktop\flutter_application_1\week6\build\app\intermediates\merged_res\debug
+com.example.week6.app-packaged_res-15 C:\Users\MiMint CH\Desktop\flutter_application_1\week6\build\geolocator_android\intermediates\packaged_res\debug
